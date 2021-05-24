@@ -1,1 +1,1 @@
-console.log("hai all");
+console.log("One all");
